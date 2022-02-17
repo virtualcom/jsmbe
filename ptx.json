@@ -1,0 +1,14 @@
+{
+    "name": "Jeff",
+    "version": "0.0.1",
+    "description": "MicroBit Extention JS.",
+    "license": "GNU",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+    ],
+    "public": false
+}
