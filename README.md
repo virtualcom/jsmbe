@@ -1,2 +1,2 @@
-# jsmbe
+# pxt-jsmbe
 Demostratie MicroBit Extention
